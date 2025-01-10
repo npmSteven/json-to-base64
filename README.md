@@ -6,4 +6,4 @@
 
 ### Example useage
 
-- node index.js file.json
+- `node index.js file.json`
